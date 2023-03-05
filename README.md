@@ -12,7 +12,7 @@
 
 - 🤝Join My Code Crew [@WebCoders](https://chat.whatsapp.com/Gfg2qKQXyu6IsIBTue3aBV)
 
-- @ Twitter [Twitter.com/NVisalka](Twitter.com/NVisalka)
+- @ Twitter [Twitter.com/NekshaDeSilva](Twitter.com/NekshaDeSilva)
 
 - 💬 Ask me about **JavaScript,CSS,C++,HTML5,C#**
 
