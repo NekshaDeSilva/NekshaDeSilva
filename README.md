@@ -1,7 +1,7 @@
-###   Hello World! I'm Neksha 👋
+<h1>   Hello World! I'm Neksha 👋</h1>
 
 <h1 align="center">Hi 👋, I'm Neksha DeSilva</h1>
-<h3 align="center">I'm A Full Stack Web Developer Making New Projects Together With My Brain 🧠</h3>
+<h3 align="center">I'm A Full Stack Web Developer Making New Projects Alone 😍</h3>
 
 
 - ✨Interested In : **Programming**
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nvisalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nvisalka" height="30" width="40" /></a>
+<a href="https://twitter.com/nekshadesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nvisalka" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19517495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19517495" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://chat.whatsapp.com/gfg2qkqxyu6isibtue3abv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://chat.whatsapp.com/gfg2qkqxyu6isibtue3abv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nekshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nekshav" height="30" width="40" /></a>
