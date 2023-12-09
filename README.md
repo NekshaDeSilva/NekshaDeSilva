@@ -3,7 +3,7 @@
 <h1 align="center">👋, I'm Neksha DeSilva</h1>
 <h3 align="center">I'm A Full Stack Web Developer, Entrepreneur and a Sri Lankan Student.</h3>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva)
 
 - ✨Interested In : _*Programming*_
 
