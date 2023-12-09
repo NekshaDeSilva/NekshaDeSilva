@@ -19,7 +19,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/nekshadesilva" target="blank"><img src="https://img.shields.io/twitter/follow/sandarudev?logo=twitter&style=for-the-badge" alt="neksha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nekshadesilva" target="blank"><img src="https://img.shields.io/twitter/follow/nekshadesilva?logo=twitter&style=for-the-badge" alt="neksha" /></a> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Proud+Anandian;UX+Designer; Entrepreneur" alt="Typing SVG" /></a>
 
 
