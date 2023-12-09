@@ -1,10 +1,11 @@
-<h1>   Hello World! I'm Neksha 👋</h1>
+<h1>Neksha Builds Here!</h1>
 
-<h1 align="center">Hi 👋, I'm Neksha DeSilva</h1>
-<h3 align="center">I'm A Full Stack Web Developer Making New Projects Alone 😍</h3>
+<h1 align="center">👋, I'm Neksha DeSilva</h1>
+<h3 align="center">I'm A Full Stack Web Developer, Entrepreneur and a Sri Lankan Student.</h3>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 
-- ✨Interested In : **Programming**
+- ✨Interested In : _*Programming*_
 
 - 🌱 I’m currently learning **Unity, C#**
 
@@ -14,9 +15,8 @@
 
 - @ Twitter [Twitter.com/NekshaDeSilva](Twitter.com/NekshaDeSilva)
 
-- 💬 Ask me about **JavaScript,CSS,C++,HTML5,C#**
-
-- 🌟 Starred Projects **@FireShellMedia**
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
