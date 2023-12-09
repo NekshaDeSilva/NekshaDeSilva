@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/c/nekshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nekshav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@nekshadesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@nekshadesilva" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekshadesilva&show_icons=true&locale=en&layout=dark" alt="nekshadesilva" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekshadesilva&show_icons=true&locale=en&theme=dark" alt="nekshadesilva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekshadesilva&show_icons=true&locale=en" alt="nekshadesilva" /></p>
 
