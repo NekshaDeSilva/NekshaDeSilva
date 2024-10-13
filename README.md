@@ -1,4 +1,4 @@
-<h4>Cheif Executive,NCloud PLC<br>Founder of NextaxkFDN.</h4>
+<h4>Cheif Executive, Founder of NCloud PLC<br>Founder of NextackFDN.</h4>
 
 <h1 align="left">Neksha DeSilva is Here.</h1>
 <h3 align="center">I'm A Full Stack Web Developer, Entrepreneur, and a Sri Lankan Student.</h3>
