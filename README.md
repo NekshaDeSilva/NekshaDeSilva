@@ -1,6 +1,6 @@
 <h1>CEO, Founder of NCloud PLC</h1>
 
-<h1 align="center">👋, I'm Neksha DeSilva</h1>
+<h1 align="left">👋, I'm Neksha DeSilva</h1>
 <h3 align="center">I'm A Full Stack Web Developer, Entrepreneur, and a Sri Lankan Student.</h3>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva)
