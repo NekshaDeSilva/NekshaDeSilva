@@ -5,17 +5,13 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva)
 
-- ✨Interested In : _*Programming*_
-
-- 🌱 I’m currently learning **Unity, C#**
-
-- ❄ YouTube [@NClx](Youtube.com/NClx)
+● Interested In : _*Entrepreneurship*_
 
 - 🤝Join My Code Crew [@Nextack.io](https://chat.whatsapp.com/Gfg2qKQXyu6IsIBTue3aBV)
 
 - @ Twitter [Twitter.com/NekshaDeSilva](Twitter.com/NekshaDeSilva)
 
-## 😂 
+## 💀
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me:</h3>
