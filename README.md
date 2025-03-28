@@ -1,22 +1,17 @@
-<h4>Cheif Executive, Founder of NCloud PLC<br>Founder of NextackFDN.</h4>
+<h4>Cheif Executive, Founder of Indexx inc.<br>Founder of IndexxResearch.</h4>
 
-<h2 align="left"><b>Neksha DeSilva</b> is Here.<h12>
-<h3 align="left">I'm A Full Stack Web Developer, Entrepreneur, and a Sri Lankan Student.</h3>
+<h2 align="left"><b>Neksha DeSilva</b><h12>
+<h3 align="left">CEO, Founder of Indexx inc.</h3>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva)
 
-● Interested In : _*Entrepreneurship*_
+● Interested In : _*Informatics*_
 
-- 🤝Join My Code Crew [@Nextack.io](https://chat.whatsapp.com/Gfg2qKQXyu6IsIBTue3aBV)
+- SriLankaPros [SriLankaProgrammers]([https://chat.whatsapp.com/Gfg2qKQXyu6IsIBTue3aBV](https://www.whatsapp.com/channel/0029Vam1QAG5q08VN9cKtv23?fbclid=PAZXh0bgNhZW0CMTEAAaaO1WBYiEQoXi8V-kxDpxm2YA3Ucsqnme3dxk1OwKg-Ve1jk0uq1_1GyXk_aem_-K1pwtYlmasGEfY-ZSWcfw))
 
-- @ Twitter [Twitter.com/NekshaDeSilva](Twitter.com/NekshaDeSilva)
+- X [x.com/Nekshavs](x.com/nekshavs)
 
-## 💀
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/nekshadesilva" target="blank"><img src="https://img.shields.io/twitter/follow/nekshadesilva?logo=twitter&style=for-the-badge" alt="neksha" /></a> </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Proud+Anandian;UX+Designer; Entrepreneur" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Olympian+in+Informatics*;Consultant; Executive+&+Founder" alt="Typing SVG" /></a>
 
 
 <p align="left">
