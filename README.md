@@ -13,6 +13,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Olympian+in+Informatics*;Consultant; Executive+&+Founder" alt="Typing SVG" /></a>
 
+<h3><i>Never, never, never give up. <br>-Winston Churchil</i></h3>
 
 <p align="left">
 <a href="https://twitter.com/nekshadesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nvisalka" height="30" width="40" /></a>
