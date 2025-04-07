@@ -3,7 +3,7 @@
 <h2 align="left"><b>Neksha DeSilva</b><h12>
 <h3 align="left">CEO, Founder of Indexx inc.</h3>
   
-![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva)&color=red
+![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=red)
 
 ● Interested In : _*Informatics*_
 
