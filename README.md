@@ -2,7 +2,6 @@
 <a style="text-decoration: none; colour:lightskyblue;" href="https://dev.tnidu.com/nekshavs"><b>neksha.com</b></a>
 <h2 align="left"><b>Neksha DeSilva</b><h12>
 <h3 align="left">CEO, Founder of Indexx inc.</h3>
-https://learn.zoom.us/j/92430668966?pwd=JL3WXN5xc5SVuPia4f5yJ8sUV132wR.1&jst=2
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva)
 
 ● Interested In : _*Informatics*_
