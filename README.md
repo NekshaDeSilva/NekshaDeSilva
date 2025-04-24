@@ -17,18 +17,14 @@
 
 <h3><i>Never, never, never give up. <br>-Winston Churchil</i></h3>
 
-<p align="left">
-<a href="https://twitter.com/nekshadesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nvisalka" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19517495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19517495" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://chat.whatsapp.com/gfg2qkqxyu6isibtue3abv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://chat.whatsapp.com/gfg2qkqxyu6isibtue3abv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nekshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nekshav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@nekshadesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@nekshadesilva" height="30" width="40" /></a>
-</p>
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekshadesilva&show_icons=true&locale=en&theme=dark" alt="nekshadesilva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekshadesilva&show_icons=true&locale=en&theme=dark" alt="nekshadesilva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekshadesilva&" alt="nekshadesilva&theme=dark" /></p>
+![image](https://user-images.githubusercontent.com/20955511/221571948-1b69a2cc-87af-4e96-83fa-f01278c22c33.png) 
 
 
 
