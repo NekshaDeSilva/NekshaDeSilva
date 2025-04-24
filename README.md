@@ -9,10 +9,6 @@
 <br>
 ● Interested In : _*Informatics*_
 
- <a  href="https://www.whatsapp.com/channel/0029Vam1QAG5q08VN9cKtv23?fbclid=PAZXh0bgNhZW0CMTEAAaaO1WBYiEQoXi8V-kxDpxm2YA3Ucsqnme3dxk1OwKg-Ve1jk0uq1_1GyXk_aem_-K1pwtYlmasGEfY-ZSWcfw">My DEV Communitys</a>
-
-- X [](x.com/nekshavs)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Olympian+in+Informatics*;Consultant;Executive+&+Founder" alt="Typing SVG" /></a>
 
 <h3><i>Never, never, never give up. <br>-Winston Churchil</i></h3>
