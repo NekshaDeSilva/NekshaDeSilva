@@ -4,13 +4,14 @@
 <h3 align="left">CEO, Founder of Indexx inc.</h3>
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=red)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-Next JS	![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<br>
 ● Interested In : _*Informatics*_
 
-- SriLankaPros [SriLankaProgrammers]([https://chat.whatsapp.com/Gfg2qKQXyu6IsIBTue3aBV](https://www.whatsapp.com/channel/0029Vam1QAG5q08VN9cKtv23?fbclid=PAZXh0bgNhZW0CMTEAAaaO1WBYiEQoXi8V-kxDpxm2YA3Ucsqnme3dxk1OwKg-Ve1jk0uq1_1GyXk_aem_-K1pwtYlmasGEfY-ZSWcfw))
+ <a  href="https://www.whatsapp.com/channel/0029Vam1QAG5q08VN9cKtv23?fbclid=PAZXh0bgNhZW0CMTEAAaaO1WBYiEQoXi8V-kxDpxm2YA3Ucsqnme3dxk1OwKg-Ve1jk0uq1_1GyXk_aem_-K1pwtYlmasGEfY-ZSWcfw">My DEV Communitys</a>
 
-- X [x.com/Nekshavs](x.com/nekshavs)
+- X [](x.com/nekshavs)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Olympian+in+Informatics*;Consultant;Executive+&+Founder" alt="Typing SVG" /></a>
 
