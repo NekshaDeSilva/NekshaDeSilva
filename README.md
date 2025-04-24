@@ -4,7 +4,8 @@
 <h3 align="left">CEO, Founder of Indexx inc.</h3>
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=red)
-
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+Next JS	![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ● Interested In : _*Informatics*_
 
 - SriLankaPros [SriLankaProgrammers]([https://chat.whatsapp.com/Gfg2qKQXyu6IsIBTue3aBV](https://www.whatsapp.com/channel/0029Vam1QAG5q08VN9cKtv23?fbclid=PAZXh0bgNhZW0CMTEAAaaO1WBYiEQoXi8V-kxDpxm2YA3Ucsqnme3dxk1OwKg-Ve1jk0uq1_1GyXk_aem_-K1pwtYlmasGEfY-ZSWcfw))
@@ -30,6 +31,10 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NekshaDeSilva&theme=dark" alt="Neksha" /></a> </p>
+ <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+    </a>
 
 
