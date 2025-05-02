@@ -2,7 +2,7 @@
 <a style="text-decoration: none; colour:lightskyblue;" href="https://www.nekshavs.tech"><b>Nekshavs Web</b></a>
 <h2 align="left"><b>Neksha DeSilva</b><h12>
 <h3 align="left">CEO, Founder of Indexx inc.</h3>
-  
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=red)
 ![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
