@@ -9,7 +9,7 @@
 <br>
 ● Interested In : _*Informatics*_
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Olympian+in+Informatics*;Consultant;Executive+&+Founder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;_______________________*;Consultant;Executive+&+Founder" alt="Typing SVG" /></a>
 
 <h3><i>Never, never, never give up. <br>-Winston Churchil</i></h3>
 
