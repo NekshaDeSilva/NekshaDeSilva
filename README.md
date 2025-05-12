@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/20955511/221571948-1b69a2cc-87af-4e96-83fa-f01278c22c33.png) 
 
 
-
+<a href="https://stardev.io/developers/NekshaDeSilva"><img alt="Check out NekshaDeSilva's profile on stardev.io" src="https://stardev.io/developers/NekshaDeSilva/badge/languages/global.svg" /></a>
  <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=nekshadesilva&row=4&theme=onedark&no-frame=true"/>
