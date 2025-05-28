@@ -15,14 +15,21 @@
 
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-
+<p align="center">
+ <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekshadesilva&show_icons=true&locale=en&theme=dark" alt="nekshadesilva" />
+ 
+<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekshadesilva&show_icons=true&locale=en&theme=dark" alt="nekshadesilva" />
 
+
+</p>
+<br>
+
 ![image](https://user-images.githubusercontent.com/20955511/221571948-1b69a2cc-87af-4e96-83fa-f01278c22c33.png) 
 
-
+<br>
 <a href="https://stardev.io/developers/NekshaDeSilva"><img alt="Check out NekshaDeSilva's profile on stardev.io" src="https://stardev.io/developers/NekshaDeSilva/badge/languages/global.svg" /></a>
  <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
