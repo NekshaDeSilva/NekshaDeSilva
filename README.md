@@ -3,11 +3,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=red)
 ![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 <br>
 
-
-<a href="https://stardev.io/developers/NekshaDeSilva"><img alt="Check out NekshaDeSilva's profile on stardev.io" src="https://stardev.io/developers/NekshaDeSilva/badge/languages/global.svg" /></a>
-
-
-
+[![OpenRockets](https://img.shields.io/badge/OpenRockets-Verified%20Contributor-white?labelColor=black&style=for-the-badge&logo=Rocket&logoColor=white&link=https://www.github.com/openrockets")](https://www.github.com/openrockets)
