@@ -7,7 +7,7 @@
 
 </p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=ash)
+![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=red)
 
 
 <br>
