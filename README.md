@@ -6,7 +6,8 @@
 [![OpenRockets](https://img.shields.io/badge/OpenRockets-Verified%20Contributor-white?labelColor=black&style=for-the-badge&logo=Rocket&logoColor=white&link=https://www.github.com/openrockets")](https://www.github.com/openrockets)
 
 </p>
-![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=red)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=nekshadesilva&color=black)
 
 
 <br>
