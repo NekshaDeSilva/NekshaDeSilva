@@ -1,5 +1,5 @@
-<h4>Entrepreneur</h4>
-<h2 align="left"><b>Neksha DeSilva</b><h12> 
+<h4>Entrepreneur<br><h2 align="left"><b>Neksha DeSilva</b><h12> </h4>
+
 <p align="center">
   
 ![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
