@@ -1,4 +1,4 @@
-<h4>Chief Executive, Founder of Indexx inc.<br>Founder of IndexxResearch. IndexxRuntime</h4>
+<h4>Entrepreneur</h4>
 <h2 align="left"><b>Neksha DeSilva</b><h12> 
 <p align="center">
   
